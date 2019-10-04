@@ -1,4 +1,4 @@
-**Day Fourteen / 30 days of React challenge / "Build your own Trump Quote" app**
+**Day One / 30 days of React challenge / "Question and Answer" app**
 
 For my first project i've created a super basic React app that shows a question, and then reveals the answer upon clicking.
 
